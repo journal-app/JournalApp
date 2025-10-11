@@ -1,3 +1,7 @@
-## Group Members
+##  Group Members
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=150&color=4CAF50,FF9800,2196F3,9C27B0&width=600&height=100&lines=Dawit+Lulie;Feven+Tassew;Emran+Seid;Kirubel+Anteneh;Kidus+Tessema)
+![Dawit Lulie](https://img.shields.io/badge/Dawit%20Lulie-blue?style=for-the-badge)
+![Feven Tassew](https://img.shields.io/badge/Feven%20Tassew-green?style=for-the-badge)
+![Emran Seid](https://img.shields.io/badge/Emran%20Seid-orange?style=for-the-badge)
+![Kirubel Anteneh](https://img.shields.io/badge/Kirubel%20Anteneh-red?style=for-the-badge)
+![Kidus Tessema](https://img.shields.io/badge/Kidus%20Tessema-purple?style=for-the-badge)
