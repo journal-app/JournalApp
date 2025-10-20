@@ -49,8 +49,7 @@
 - [Usage Guide](#usage-guide)  
 - [Screenshots & UI Mockups](#screenshots--ui-mockups)  
 - [Future Enhancements](#future-enhancements)  
-- [Contributing](#contributing)  
-- [Team](#team)  
+- [Contributing](#contributing)   
 - [License](#license)  
 - [Acknowledgements](#acknowledgements)
 
