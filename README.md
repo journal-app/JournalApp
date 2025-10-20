@@ -116,8 +116,6 @@ git clone https://github.com/journal-app/JournalApp.git
 
 ## Screenshots & UI Mockups
 
-*(Replace with actual images from your project)*
-
 ### Dashboard Overview
 ![Dashboard Overview](link-to-your-image)
 
