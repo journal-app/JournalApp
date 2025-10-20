@@ -141,3 +141,16 @@ git clone https://github.com/journal-app/JournalApp.git
 | **AI-powered Insights**          | Automatic summarization, mood analysis, and habit suggestions. |
 | **Mobile App Integration**       | Extend accessibility through native mobile apps.               |
 | **Data Export**                  | Export journal entries, habits, and tasks to PDF or CSV.       |
+
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Acknowledgements
+
+- **IEEE 830 & IEEE 29148 SRS Standards**  
+- **MDN Web Docs**: HTML, CSS, JavaScript  
+- **Visual Studio Code & GitHub**
