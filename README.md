@@ -6,11 +6,10 @@
 ![Kirubel Anteneh](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=8A2BE2&width=400&height=50&lines=Kirubel+Anteneh)
 ![Kidus Tessema](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=FF1493&width=400&height=50&lines=Kidus+Tessema)
 
-
-<!-- 🌿 LifeLog: Personal Journal Web Application -->
+# LifeLog - Personal Journal Web Application
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=40&duration=3500&pause=700&color=4CAF50&center=true&vCenter=true&width=800&lines=🌿+LifeLog+-+Personal+Journal+Web+Application;Track+Habits+%7C+Journal+Thoughts+%7C+Visualize+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=40&duration=3500&pause=700&color=4CAF50&center=true&vCenter=true&width=800&lines=LifeLog+-+Personal+Journal+Web+Application;Track+Habits+%7C+Journal+Thoughts+%7C+Visualize+Growth" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,57 +22,58 @@
 
 ---
 
-> 🪶 *Your digital space to capture thoughts, track habits, and visualize daily progress — beautifully and privately.*
+## Project Tagline
+Your digital space to capture thoughts, track habits, and visualize daily progress — all in one responsive dashboard.
 
 ---
 
-## 🚀 Live Demo  
-🔗 **Project Repository:** [LifeLog on GitHub](https://github.com/journal-app/JournalApp.git)  
-📦 *(Optional)* Live Demo: [lifelog.vercel.app](https://lifelog.vercel.app)
+## Live Demo  
+**Project Repository:** [LifeLog on GitHub](https://github.com/journal-app/JournalApp.git)  
+*(Optional)* Live Demo: [lifelog.vercel.app](https://lifelog.vercel.app)
 
 ---
 
-## 🧭 Table of Contents  
-- [Overview](#-overview)  
-- [Features](#-features)  
-- [System Architecture](#-system-architecture)  
-- [Tech Stack](#-tech-stack)  
-- [Installation](#-installation)  
-- [Usage Guide](#-usage-guide)  
-- [Screenshots & UI Mockups](#-screenshots--ui-mockups)  
-- [Future Enhancements](#-future-enhancements)  
-- [Contributing](#-contributing)  
-- [Team](#-team)  
-- [License](#-license)  
-- [Acknowledgements](#-acknowledgements)
+## Table of Contents  
+- [Overview](#overview)  
+- [Features](#features)  
+- [System Architecture](#system-architecture)  
+- [Tech Stack](#tech-stack)  
+- [Installation](#installation)  
+- [Usage Guide](#usage-guide)  
+- [Screenshots & UI Mockups](#screenshots--ui-mockups)  
+- [Future Enhancements](#future-enhancements)  
+- [Contributing](#contributing)  
+- [Team](#team)  
+- [License](#license)  
+- [Acknowledgements](#acknowledgements)
 
 ---
 
-## 🪴 Overview  
+## Overview  
 
-**LifeLog** is a **personal journaling and productivity web app** designed to help users record thoughts, track habits, monitor moods, and plan daily tasks — all within a single responsive dashboard.  
+LifeLog is a personal journaling and productivity web app designed to help users record thoughts, track habits, monitor moods, and manage daily tasks. It provides a unified, responsive dashboard accessible on desktop, tablet, and mobile devices.  
 
-Built with **HTML, CSS, and JavaScript**, it operates **completely offline** using **Browser Local Storage**, ensuring your data stays secure on your device.  
+The app is built with HTML, CSS, and JavaScript and works completely offline using browser Local Storage. This ensures that all data remains secure on the user's device.  
 
-Future releases will introduce cloud storage, authentication, and **AI-powered insights** (summarization, sentiment analysis, and habit recommendations).
+Future versions may include cloud storage, authentication, and AI-powered insights such as activity summarization, sentiment analysis, and habit suggestions.
 
 ---
 
-## ✨ Features  
+## Features  
 
 | Module | Description |
 |:--|:--|
-| 📝 **Journal Entry Management** | Create, view, and delete personal journal entries easily. |
-| 📅 **Habit Tracker** | Track daily routines with interactive checkboxes. |
-| 😊 **Mood Tracker** | Log daily moods with optional reflections. |
-| ✅ **Daily To-Do List** | Add, mark, or remove tasks to stay productive. |
-| 📈 **Weekly Progress Summary** | View a weekly overview of habits, moods, and tasks. |
-| 💻 **Responsive UI** | Works seamlessly across desktop, tablet, and mobile. |
-| 🔒 **Offline Storage** | Uses Local Storage for secure offline use. |
+| Journal Entry Management | Create, view, and delete personal journal entries easily. |
+| Habit Tracker | Track daily routines with interactive checkboxes. |
+| Mood Tracker | Log daily moods with optional notes. |
+| Daily To-Do List | Add, mark, or remove tasks to stay organized. |
+| Weekly Progress Summary | Review a weekly overview of habits, moods, and tasks. |
+| Responsive UI | Adapts seamlessly to desktop, tablet, and mobile. |
+| Offline Storage | Data is stored securely in browser Local Storage. |
 
 ---
 
-## 🧩 System Architecture  
+## System Architecture  
 
 ```plaintext
 User
@@ -84,3 +84,10 @@ User
  └── Weekly Summary
         ↓
    Local Storage (Client-Side)
+| **Layer**             | **Technology**                           |
+| :-------------------- | :--------------------------------------- |
+| **Frontend**          | HTML5, CSS3, JavaScript                  |
+| **Storage**           | Browser Local Storage (offline)          |
+| **Future Enhancements** | PHP, Database (MySQL/SQLite), AI modules |
+```
+
