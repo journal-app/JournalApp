@@ -24,10 +24,17 @@
 
 
 
-## Project Tagline
-Your digital space to capture thoughts, track habits, and visualize daily progress — all in one responsive dashboard.
+##  Project Tagline
 
----
+**LifeLog** is your all-in-one digital journal and productivity dashboard, designed to help you:
+
+- Capture your thoughts and reflections daily  
+- Track habits and routines effortlessly  
+- Monitor moods and emotional patterns  
+- Visualize your personal growth over time  
+
+*Seamless, responsive, and intuitive — stay organized, motivated, and mindful every day.*
+
 
 ## Live Demo  
 **Project Repository:** [LifeLog on GitHub](https://github.com/journal-app/JournalApp.git)  
