@@ -1,4 +1,4 @@
-# LifeLog - Personal Journal Web Application
+# *LifeLog - Personal Journal Web Application*
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=40&duration=3500&pause=700&color=4CAF50&center=true&vCenter=true&width=800&lines=LifeLog+-+Personal+Journal+Web+Application;Track+Habits+%7C+Journal+Thoughts+%7C+Visualize+Growth" alt="Typing SVG" />
