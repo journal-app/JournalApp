@@ -103,4 +103,13 @@ User
 ```bash
 git clone https://github.com/journal-app/JournalApp.git
 
+## Usage Guide
+
+| **Action**           | **Description**                                                |
+| :------------------ | :------------------------------------------------------------- |
+| **Add Journal Entry** | Click "Add New Entry", type your text, and save.              |
+| **Habit Tracker**     | Check/uncheck daily habits to track routines.                 |
+| **Mood Tracker**      | Select mood and optionally add notes.                         |
+| **Daily To-Do List**  | Add tasks, mark as completed, and remove unnecessary items.   |
+| **Weekly Summary**    | View your weekly activity overview and progress.              |
 
