@@ -36,12 +36,6 @@
 *Seamless, responsive, and intuitive — stay organized, motivated, and mindful every day.*
 
 
-## Live Demo  
-**Project Repository:** [LifeLog on GitHub](https://github.com/journal-app/JournalApp.git)  
-*(Optional)* Live Demo: [lifelog.vercel.app](https://lifelog.vercel.app)
-
----
-
 ## Table of Contents  
 - [Overview](#overview)  
 - [Features](#features)  
@@ -110,6 +104,21 @@ User
 ```bash
 git clone https://github.com/journal-app/JournalApp.git
 ```
+
+##  Live Demo
+
+Experience LifeLog in action:
+
+- **Interactive Dashboard:** Track habits, moods, and tasks in real-time  
+- **Offline-ready:** All data stored securely in your browser  
+- **Cross-device Compatible:** Works on desktop, tablet, and mobile  
+
+ **Try it live:** [LifeLog Live Demo](https://lifelog.vercel.app)  
+ **Source Code:** [GitHub Repository](https://github.com/journal-app/JournalApp.git)
+
+*Quick, easy, and ready to enhance your productivity today!*
+
+
 ## Usage Guide
 
 | **Action**           | **Description**                                                |
