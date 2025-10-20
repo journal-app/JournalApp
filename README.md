@@ -85,12 +85,22 @@ User
  ├── To-Do List
  └── Weekly Summary
         ↓
-```
    Local Storage (Client-Side)
+```
+
+## Technology Stack
+
 | **Layer**             | **Technology**                           |
 | :-------------------- | :--------------------------------------- |
 | **Frontend**          | HTML5, CSS3, JavaScript                  |
 | **Storage**           | Browser Local Storage (offline)          |
 | **Future Enhancements** | PHP, Database (MySQL/SQLite), AI modules |
-```
+
+## Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/journal-app/JournalApp.git
+
 
