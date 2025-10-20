@@ -113,3 +113,33 @@ git clone https://github.com/journal-app/JournalApp.git
 | **Daily To-Do List**  | Add tasks, mark as completed, and remove unnecessary items.   |
 | **Weekly Summary**    | View your weekly activity overview and progress.              |
 
+
+## Screenshots & UI Mockups
+
+*(Replace with actual images from your project)*
+
+### Dashboard Overview
+![Dashboard Overview](link-to-your-image)
+
+### Journal Entry Module
+![Journal Entry Module](link-to-your-image)
+
+### Habit Tracker Module
+![Habit Tracker Module](link-to-your-image)
+
+### Mood Tracker Module
+![Mood Tracker Module](link-to-your-image)
+
+### To-Do List Module
+![To-Do List Module](link-to-your-image)
+
+---
+
+## Future Enhancements
+
+| **Enhancement**                 | **Description**                                                  |
+| :------------------------------ | :--------------------------------------------------------------- |
+| **Cloud Storage & Authentication** | Enable multi-device use with secure login.                     |
+| **AI-powered Insights**          | Automatic summarization, mood analysis, and habit suggestions. |
+| **Mobile App Integration**       | Extend accessibility through native mobile apps.               |
+| **Data Export**                  | Export journal entries, habits, and tasks to PDF or CSV.       |
