@@ -102,7 +102,7 @@ User
 
 ```bash
 git clone https://github.com/journal-app/JournalApp.git
-
+```
 ## Usage Guide
 
 | **Action**           | **Description**                                                |
