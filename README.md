@@ -85,6 +85,7 @@ User
  ├── To-Do List
  └── Weekly Summary
         ↓
+
    Local Storage (Client-Side)
 | **Layer**             | **Technology**                           |
 | :-------------------- | :--------------------------------------- |
