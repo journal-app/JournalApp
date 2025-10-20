@@ -1,11 +1,3 @@
-##  Group Members
-
-![Dawit Lulie](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=1E90FF&width=400&height=50&lines=Dawit+Lulie)
-![Feven Tassew](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=32CD32&width=400&height=50&lines=Feven+Tassew)
-![Emran Seid](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=FF8C00&width=400&height=50&lines=Emran+Seid)
-![Kirubel Anteneh](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=8A2BE2&width=400&height=50&lines=Kirubel+Anteneh)
-![Kidus Tessema](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=FF1493&width=400&height=50&lines=Kidus+Tessema)
-
 # LifeLog - Personal Journal Web Application
 
 <h1 align="center">
@@ -21,6 +13,16 @@
 </p>
 
 ---
+
+##  Group Members
+
+![Dawit Lulie](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=1E90FF&width=400&height=50&lines=Dawit+Lulie)
+![Feven Tassew](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=32CD32&width=400&height=50&lines=Feven+Tassew)
+![Emran Seid](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=FF8C00&width=400&height=50&lines=Emran+Seid)
+![Kirubel Anteneh](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=8A2BE2&width=400&height=50&lines=Kirubel+Anteneh)
+![Kidus Tessema](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=FF1493&width=400&height=50&lines=Kidus+Tessema)
+
+
 
 ## Project Tagline
 Your digital space to capture thoughts, track habits, and visualize daily progress — all in one responsive dashboard.
