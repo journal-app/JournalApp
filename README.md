@@ -1,14 +1,17 @@
-# *LifeLog - Personal Journal Web Application*
+<h1 align="center" style="font-size: 80px; color:#4CAF50; font-weight:bold;">
+  LifeLog  Personal Journal Web Application
+</h1>
+
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=40&duration=3500&pause=700&color=4CAF50&center=true&vCenter=true&width=800&lines=LifeLog+-+Personal+Journal+Web+Application;Track+Habits+%7C+Journal+Thoughts+%7C+Visualize+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=40&duration=3500&pause=700&color=4CAF50&center=true&vCenter=true&width=800&lines=LifeLog+-+Your+Personal+Journal+and+Productivity+Dashboard;Capture+Thoughts+%7C+Track+Habits+%7C+Visualize+Growth" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/journal-app/JournalApp.git"><img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Made%20with-HTML%2C%20CSS%2C%20JS-orange.svg" alt="Tech Stack"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tech%20Stack-HTML%2C%20CSS%2C%20JS-orange.svg" alt="Tech Stack"></a>
   <a href="#"><img src="https://img.shields.io/badge/Contributions-Welcome-lightblue.svg" alt="Contributions"></a>
 </p>
 
