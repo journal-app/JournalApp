@@ -154,7 +154,7 @@ Experience LifeLog in action:
 
 ## Project Folder Structure
 
-bash ```
+ ```bash
 LifeLog/
 ├─ index.html                        → Main dashboard and entry point
 ├─ README.md                         → Project documentation
