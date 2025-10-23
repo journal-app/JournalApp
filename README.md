@@ -52,6 +52,7 @@
 - [Contributing](#contributing)   
 - [License](#license)  
 - [Acknowledgements](#acknowledgements)
+- [Folder Structure](#Project Folder Structure)
 
 ---
 
